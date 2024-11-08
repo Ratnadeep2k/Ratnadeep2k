@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+  <a href="https://twitter.com/ratnadeep2k" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ratnadeep2k?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
   </a>
 </p>
 
