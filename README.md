@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank">
+    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnadeep2k&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnadeep2k&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnadeep2k" alt="GitHub Streak" />
 </div>
 
 ---
