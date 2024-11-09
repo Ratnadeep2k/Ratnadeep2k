@@ -27,7 +27,5 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnadeep2k&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnadeep2k" alt="GitHub Streak" />
-</div>
-
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ratnadeep2k&theme=react" alt="GitHub Streak" /></a>
 ---
